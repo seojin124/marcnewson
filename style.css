@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+a:link{color: #DFDFDF;}
+a:visited{color: #DFDFDF;}
+a:hover{color: #EF8C15;}
+a:active{color: #DFDFDF;}
+
+body{
+    background-color: #171717;
+
+}
+header{    
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+nav{
+    background-image: url(img/m1.png);
+    background-repeat: no-repeat;
+    background-position-x: center;
+
+    height: 500px;
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+}
+nav ul{
+    margin-left: 310px;
+    width: 1200px;
+    height: 507px;
+}
